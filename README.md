@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Rodrigo Iván Ramírez Dávalos 👋</h1>
 <p align="center">
   Estudiante universitario · Desarrollador full stack · Hackathons<br>
-  🇵🇪 Peruano, estudiando en Managua, Nicaragua 🇳🇮
+  Peruano, estudiando en Managua, Nicaragua
 </p>
 
 <p align="center">
