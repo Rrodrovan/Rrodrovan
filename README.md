@@ -1,24 +1,25 @@
 <h1 align="center">Hola, soy Rodrigo Iván Ramírez Dávalos 👋</h1>
 <p align="center">
-  Estudiante universitario · Desarrollador full stack · Hackathons<br>
+  Estudiante de Ingeniería en Sistemas · Desarrollador full stack · Hackathons<br>
   Peruano, estudiando en Managua, Nicaragua
 </p>
 
 <p align="center">
   <a href="mailto:ramirezdavalos.rodrivan@gmail.com"><img src="https://img.shields.io/badge/Email-ramirezdavalos.rodrivan%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-ivan-ramirez-davalos-130aaa238/"><img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Ram%C3%ADrez%20D%C3%A1valos-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
 
 ## 🇪🇸 Sobre mí
 
-- Estudio en la **Universidad Americana (UAM)** en Managua.
+- Estudio **Ingeniería en Sistemas** en la **Universidad Americana (UAM)** en Managua.
 - Construyo APIs REST con **Java y Spring Boot** y las consumo desde **React + TypeScript**.
 - Participo en hackathons: **NASA Space Apps Challenge 2026** y **Hackathon Nicaragua 2026**.
 
 ## 🇬🇧 About me
 
-- University student at **Universidad Americana (UAM)** in Managua, Nicaragua — originally from Peru.
+- Systems Engineering student at **Universidad Americana (UAM)** in Managua, Nicaragua — originally from Peru.
 - I build REST APIs with **Java and Spring Boot** and consume them from **React + TypeScript**.
 - Hackathon participant: **NASA Space Apps Challenge 2026** and **Hackathon Nicaragua 2026**.
 
@@ -49,10 +50,10 @@
 | [servicios-web-sesion8-dto-paginacion-allport](https://github.com/Rrodrovan/servicios-web-sesion8-dto-paginacion-allport) | API REST Spring Boot del Test de Valores de Allport: DTOs, validación, paginación y manejo de errores. |
 | [gestion-academica-web](https://github.com/Rrodrovan/gestion-academica-web) | Frontend React + TypeScript que consume la API (Axios, filtros, formulario, estados de carga y error). |
 | [gestion-academica-allport](https://github.com/Rrodrovan/gestion-academica-allport) | Gestión académica + Test de Allport con React y Spring Boot. |
-| [nicamarket-api](https://github.com/Rrodrovan/nicamarket-api) | API REST en Java / Spring Boot. |
-| [prestamos-equipos](https://github.com/Rrodrovan/prestamos-equipos) | Sistema de préstamo de equipos en Java. |
+| [nicamarket-api](https://github.com/Rrodrovan/nicamarket-api) | API REST de productos y categorías (NicaMarket) con Spring Boot, Spring Security y JWT. |
+| [prestamos-equipos](https://github.com/Rrodrovan/prestamos-equipos) | API REST con Spring Boot para el préstamo de equipos. |
 | [sistema-evaluaciones](https://github.com/Rrodrovan/sistema-evaluaciones) | Monorepo de evaluación psicométrica (Spring Boot, React, PostgreSQL) — trabajo en equipo. |
-| [PatronDecortorProxyMvn](https://github.com/Rrodrovan/PatronDecortorProxyMvn) | Patrones de diseño Decorator y Proxy en Java (Maven). |
+| [PatronDecortorProxyMvn](https://github.com/Rrodrovan/PatronDecortorProxyMvn) | Patrones de diseño Decorator y Proxy aplicados a reportes en Java/JavaFX (Maven). |
 
 ---
 
